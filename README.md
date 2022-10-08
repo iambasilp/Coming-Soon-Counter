@@ -12,17 +12,17 @@
 
 - [x] Update timer function
 
-- [x] Edit task
+- [x] Start timer function
 
-- [x] Save on local storage
+- [x] style countdown timer
 
-- [x] Showing Settings Menu of Particular Note
 
-- [x] Responsivity
 
-## .tools
 
-- Icons: [Font Awesome](https://fontawesome.com/icons)
+
+
+
+
 
 ## .contact
 
