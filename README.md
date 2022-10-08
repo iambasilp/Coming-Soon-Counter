@@ -6,11 +6,11 @@
 
 ## .features
 
-- [x] Show notes List
+- [x] Bet Ui
 
-- [x] Add new note
+- [x] On window Load
 
-- [x] Delete task
+- [x] Update timer function
 
 - [x] Edit task
 
