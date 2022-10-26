@@ -1,31 +1,27 @@
-### This is my learning process 😎
 
-## .preview
+## Preview
 
-![Coming Soon Countdown](added link here)
+![Notetaking App](https://i.ibb.co/0X04CWW/Screenshot-104.png)
 
-## .features
 
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Features
 - [x] Bet Ui
-
 - [x] On window Load
-
 - [x] Update timer function
-
 - [x] Start timer function
-
 - [x] style countdown timer
 
 
+## Support
+
+For support, email basilxg321@gmail.com 
 
 
+## Authors
 
+- [@iambasilp](https://www.github.com/iambasilp)
 
-
-
-
-## .contact
-
-- Email: [basilxg321@gmail.com](mailto:basilxg321@gmail.com)
-
-- Instagram: [@mr.basil_pkt](https://instagram.com/mr.basil_pkt)
