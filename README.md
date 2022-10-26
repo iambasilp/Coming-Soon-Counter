@@ -1,7 +1,7 @@
 
 ## Preview
 
-![Notetaking App](https://i.ibb.co/0X04CWW/Screenshot-104.png)
+![Notetaking App](./images/preview.png)
 
 
 ## 🛠 Skills
